@@ -1,13 +1,28 @@
-- 👋 Hi, I’m @srawan-meesala
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Python and Web3 development projects.
-- 📫 How to reach me <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn [@srawan_meesala ](https://www.linkedin.com/in/srawan-meesala-35b3b3242?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQ9%2FAAym7TkyBIRM3YpBH2A%3D%3D) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instagram [@srawan_meesala](https://www.instagram.com/srawan_meesala/) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mail @srawanviz@gmail.com
+# Hi there,  I'm Srawan Meesala 🌼
+![Image Alt Text](https://i.ibb.co/k24415b/Github-Banner.gif)
+### I'm a Student, Web Developer, Deep Learning Enthusiast.
 
-<!---
-srawan-meesala/srawan-meesala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##  About Me 
+
+- 🎓 B.Tech in Computer Science and Engineering @IIIT, Sricity, India.
+- 💡 I'm a firm believer in the endless possibilities that technology can unlock.
+
+## Languages and Tools
+<p align="center">
+<img width="700px"  src="https://skillicons.dev/icons?i=py,flask,regex,js,html,css,react,nodejs,express,java,solidity,mysql,mongo,github,vscode,aws,fastapi,postman,cpp,linux&perline=10" />
+</p>
+<br />
+
+##  Some Stats
+
+<!-- [![Srawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=srawan-meesala)](https://github.com/srawan-meesala/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srawan-meesala&layout=pie)](https://github.com/srawan-meeesala/github-readme-stats)
+
+## Contacts and Socials - 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srawan-meesala-35b3b3242/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/srawan_meesala)
+[![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/cklmd485dl487hd8quiisum5y)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:srawanviz@gmail.com)
+[![Leetcode](https://img.shields.io/badge/-Leetcode-FAC02C?style=flat&logo=Leetcode&logoColor=white)](https://leetcode.com/u/srawan_meesala/)
