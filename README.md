@@ -16,8 +16,11 @@
 ##  Some Stats
 
 <!-- [![Srawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=srawan-meesala)](https://github.com/srawan-meesala/github-readme-stats) -->
-
+<div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srawan-meesala&layout=pie)](https://github.com/srawan-meeesala/github-readme-stats)
+  
+</div>
 
 ## Contacts and Socials - 
 
