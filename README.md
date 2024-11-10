@@ -1,6 +1,6 @@
 # Hi there,  I'm Srawan Meesala 🌼
 ![Image Alt Text](https://i.ibb.co/k24415b/Github-Banner.gif)
-### I'm a Student, Web Developer, Deep Learning Enthusiast.
+### I'm a Student, Web Developer, DevOps Enthusiast.
 
 ##  About Me 
 
