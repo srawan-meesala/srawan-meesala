@@ -9,7 +9,7 @@
 
 ## Languages and Tools
 <p align="center">
-<img width="700px"  src="https://skillicons.dev/icons?i=py,flask,regex,js,html,css,react,nodejs,express,java,solidity,mysql,mongo,github,vscode,aws,fastapi,postman,cpp,linux&perline=10" />
+<img width="700px"  src="https://skillicons.dev/icons?i=py,java,spring,js,html,css,react,nodejs,express,flask,solidity,mysql,mongo,github,vscode,aws,fastapi,postman,cpp,linux&perline=10" />
 </p>
 <br />
 
